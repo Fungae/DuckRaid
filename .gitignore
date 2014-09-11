@@ -11,6 +11,8 @@
 # Generated files
 bin/
 gen/
+ant-build
+ant-gen
 
 # Gradle files
 .gradle/
