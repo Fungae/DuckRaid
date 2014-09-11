@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.fungae.duckraid" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>DuckRaid</name>
+    <description>
+        Aplicación
+    </description>
+    <author email="alejandro1213@gmail.com" href="https://github.com/Fungae/DuckRaid">
+        Alejandro Herrera
+    </author>
+    <author email="juliodion_12345@hotmail.com" href="https://github.com/Fungae/DuckRaid">
+        Julio Osorio
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
